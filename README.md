@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianPacewicz, I'm from Buenos Aires, Argentina 🇦🇷
-- 👀 I’m interested in technology, programming, databases, sports, gaming and music!
-- 🌱 I’m currently learning JavaScript, SQL, C# and Java
+- 👀 I’m interested in technology, databases, programming, sports, gaming and music!
+- 🌱 I’m currently learning Python, SQL, and C#
 - 📫 How to reach me:
   - <a href="mailto:adri.pacewicz@gmail.com">eMail</a>
   - <a href="https://www.linkedin.com/in/adrian-pacewicz/" target="_blank">LinkedIn</a>
